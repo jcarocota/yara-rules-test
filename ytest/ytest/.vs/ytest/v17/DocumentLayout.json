@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\yara\\ytest\\ytest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3482166-86A3-4A53-8057-DB000F80757B}|ytest\\ytest.csproj|c:\\projects\\yara\\ytest\\ytest\\ytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3482166-86A3-4A53-8057-DB000F80757B}|ytest\\ytest.csproj|solutionrelative:ytest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\yara\\ytest\\ytest\\ytest\\Program.cs",
+              "RelativeDocumentMoniker": "ytest\\Program.cs",
+              "ToolTip": "C:\\Projects\\yara\\ytest\\ytest\\ytest\\Program.cs",
+              "RelativeToolTip": "ytest\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwCwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T01:42:58.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

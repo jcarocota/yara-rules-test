@@ -1,0 +1,9 @@
+ws2_32.dll
+System.Net
+wsock32.dll
+WSAStartup
+sendto
+recvfrom
+WSASendTo
+WSARecvFrom
+UdpClient

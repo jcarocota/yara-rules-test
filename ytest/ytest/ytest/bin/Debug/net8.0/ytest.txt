@@ -1,0 +1,21 @@
+ws2_32.dll
+System.Net
+wsock32.dll
+WSAStartup
+sendto
+recvfrom
+WSASendTo
+WSARecvFrom
+UdpClient
+SSL_RSA_WITH_DES_CBC_SHA
+SSLv2
+MD5
+DES
+gets(
+scanf(
+../
+../../../../
+<script>
+document.cookie
+SELECT * FROM
+UNION SELECT

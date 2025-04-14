@@ -1,0 +1,14 @@
+C:\Projects\yara\ytest\ytest\ytest\bin\Debug\net8.0\ytest.exe
+C:\Projects\yara\ytest\ytest\ytest\bin\Debug\net8.0\ytest.deps.json
+C:\Projects\yara\ytest\ytest\ytest\bin\Debug\net8.0\ytest.runtimeconfig.json
+C:\Projects\yara\ytest\ytest\ytest\bin\Debug\net8.0\ytest.dll
+C:\Projects\yara\ytest\ytest\ytest\bin\Debug\net8.0\ytest.pdb
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.AssemblyInfoInputs.cache
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.AssemblyInfo.cs
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.csproj.CoreCompileInputs.cache
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.dll
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\refint\ytest.dll
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.pdb
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ytest.genruntimeconfig.cache
+C:\Projects\yara\ytest\ytest\ytest\obj\Debug\net8.0\ref\ytest.dll
